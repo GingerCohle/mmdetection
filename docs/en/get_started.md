@@ -201,7 +201,7 @@ Run it with
 ```shell
 docker run --gpus all --shm-size=8g -it -v {DATA_DIR}:/mmdetection/data mmdetection
 ```
-
+s
 ## Trouble shooting
 
 If you have some issues during the installation, please first view the [FAQ](faq.md) page.
